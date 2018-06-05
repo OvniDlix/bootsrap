@@ -1,0 +1,13 @@
+    <h1>Hello, world!</h1>
+
+    <div class="container zolty">
+      <div class="row">
+        <div class="col-md-4 col-sm-2 col-xs-12 col-lg-6 zielony">test1</div>
+          <div class="row">
+            <div class="col-md-6 czerwony">test</div>
+            <div class="col-md-6 niebieski">test</div>
+          </div>
+        <div class="col-md-3 col-sm-5 col-xs-6 col-lg-3 czerwony">test2</div>
+        <div class="col-md-5 col-sm-5 col-xs-6 col-lg-3 niebieski">test3</div>
+      </div>
+    </div>
